@@ -27,3 +27,10 @@
 *.exe
 *.out
 *.app
+
+#Test files
+test*
+
+Hidden files
+.*
+!.gitignore
